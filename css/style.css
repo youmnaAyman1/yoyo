@@ -1,0 +1,28 @@
+
+
+
+h1{
+  font-family: 'Anton', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+}
+
+p{
+
+
+font-family: 'Times New Roman', Times, serif;
+font-weight: 400;
+font-size: 35px;
+
+}
+
+button{
+  background-color: blue;
+}
+#new-quote-button:hover{
+
+
+
+  background-color: green;
+}
